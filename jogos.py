@@ -11,7 +11,5 @@ def selecionar_jogo():
     elif(jogo_selecionado == 2):
         forca.jogar()
 
-    print("testando versionamento com o GitHub")
-
 if(__name__ == '__main__'):
     selecionar_jogo()
